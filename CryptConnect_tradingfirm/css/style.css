@@ -122,7 +122,8 @@ p {
 /* Navbar */
 #navbar {
   display: flex;
-  position: sticky;
+  width: 100vw;
+  position: fixed;
   top: o;
   background: #333;
   color: #fff;
@@ -170,7 +171,7 @@ p {
   position: absolute;
   right: 0;
   left: 0;
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: rgba(37, 0, 44, 0.6);
 }
 
 /* What Section */
